@@ -51,7 +51,7 @@ const DocsbarMenu = () => (
         <i className="lock-icon"><BiLock /></i>
         Share
       </button>
-      <a href="https://github.com/Sri-Sakthi-CB/" target="blank">
+      <a href="https://github.com/saransathish/" target="blank">
         <img src={profile} alt="Profile" className="profile" />
       </a>
     </div>
