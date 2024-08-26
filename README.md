@@ -18,4 +18,4 @@ It allows multiple users to simultaneously edit files seamlessly.
 - React.js
 ## Live demo
 
-https://main.d2souv5ujr35jj.amplifyapp.com
+https://main.d2souv5ujr35jj.amplifyapp.com 
