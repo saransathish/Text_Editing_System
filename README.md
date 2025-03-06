@@ -1,4 +1,4 @@
-# Collaborative Editing System 
+# Collaborative Editing System
 
 ## Overview
 
